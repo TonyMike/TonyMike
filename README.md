@@ -1,6 +1,11 @@
 - 👋 Hi, I’m Tony Michael
+
 - 👀 I’m a senior frontend developer with 5 years experience
+
 - 🌱 I’m currently learning backend development 
+
+- 🔭 I’m currently working on Takiakia An e-commerse platform with exclusively unique features helping students to sell and buy products with ease
+
 - 📫 How to reach me via email tee.jhay1@gmail.com
 
 <!---
