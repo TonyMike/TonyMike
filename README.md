@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony Michael
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/tonymike/tonymike/blob/master/devcard.svg" width="400" alt="Tony Micheal's Dev Card"/></a>
+<a href="https://app.daily.dev/tonymike"><img src="https://github.com/tonymike/tonymike/blob/master/devcard.svg" width="400" alt="Tony Micheal's Dev Card"/></a>
 
 - 👀 I’m a senior frontend developer with 5 years experience
 
