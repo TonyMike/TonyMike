@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/tonymike"><img src="https://api.daily.dev/devcards/ac476e766fa94b8fbbeb04256cfd12f9.png?r=l5c" width="400" alt="Tony Michael's Dev Card"/></a>
 
-- 👀 I’m a mid-level frontend developer with 3 years experience
+- 👀 I’m a mid-level frontend developer with 4 years experience
 
 - 🌱 I’m currently learning backend development 
 
