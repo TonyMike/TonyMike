@@ -5,9 +5,6 @@
 <a href="https://app.daily.dev/tonymike"><img src="https://api.daily.dev/devcards/ac476e766fa94b8fbbeb04256cfd12f9.png?r=l5c" width="400" alt="Tony Michael's Dev Card"/></a>
 
 
-
-> Crafting clean code, shipping fast, and learning every day.
-
 [![Profile views](https://komarev.com/ghpvc/?username=TonyMike&color=0e75b6)](https://github.com/TonyMike)
 
 About me
