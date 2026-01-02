@@ -1,5 +1,5 @@
 
-# Hi, I'm TonyMike 👋
+# Hi, I'm Anthony Michael 👋
 
 
 <a href="https://app.daily.dev/tonymike"><img src="https://api.daily.dev/devcards/ac476e766fa94b8fbbeb04256cfd12f9.png?r=l5c" width="400" alt="Tony Michael's Dev Card"/></a>
@@ -27,13 +27,13 @@ Core skills
 - DevOps: Docker, Kubernetes, GitHub Actions, Terraform
 - Testing & Quality: Jest, Playwright, Pytest, linters & static analysis
 
-Featured projects
------------------
-> A curated snapshot — replace these with your actual favorite projects and short descriptions.
+##Featured projects
+##-----------------
+##> A curated snapshot — replace these with your actual favorite projects and short descriptions.
 
-- [awesome-project-1](https://github.com/TonyMike/awesome-project-1) — Short 1-line description of what it does and why it matters.
-- [tooling-kit](https://github.com/TonyMike/tooling-kit) — Developer tools and scripts to speed up builds and CI.
-- [open-source-lib](https://github.com/TonyMike/open-source-lib) — A small library that solves X and is used by Y.
+##- [awesome-project-1](https://github.com/TonyMike/awesome-project-1) — Short 1-line description of what it does and why it matters.
+##- [tooling-kit](https://github.com/TonyMike/tooling-kit) — Developer tools and scripts to speed up builds and CI.
+##- [open-source-lib](https://github.com/TonyMike/open-source-lib) — A small library that solves X and is used by Y.
 
 Open to work / Hiring
 ---------------------
@@ -42,10 +42,10 @@ Open to work / Hiring
 
 How to reach me
 ---------------
-- Website: https://your-website.example (replace with your site)
-- Email: you@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
+##- Website: https://your-website.example (replace with your site)
+- Email: tee.jhay1@gmail.com
+- Twitter: https://twitter.com/tsaddict
+- LinkedIn: https://www.linkedin.com/in/tsaddict
 
 Contributions
 -------------
@@ -64,7 +64,7 @@ Roadmap / Current focus
 
 Fun facts
 ---------
-- I love coffee ☕ and long walks while listening to podcasts.
+- I love FC26 and long walks while listening to podcasts.
 - I enjoy mentoring junior devs and pair-programming.
 
 If you like what you see
